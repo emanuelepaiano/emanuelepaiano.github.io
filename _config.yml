@@ -3,12 +3,12 @@ title: Emanuele Paiano
 header-img: img/home-bg.jpg
 email: nixw0rm@gmail.com
 copyright_name: Emanuele Paiano
-description: ""
-baseurl: ""
+description: "Coder's homepage"
+baseurl: "https://emanuelepaiano.github.io/"
 url: "https://emanuelepaiano.github.io"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
+twitter_username: emanuele_paiano
+github_username:  emanuelepaiano
+facebook_username:  nito.infi86
 email_username:  nixw0rm@gmail.com
 
 # Google Analytics

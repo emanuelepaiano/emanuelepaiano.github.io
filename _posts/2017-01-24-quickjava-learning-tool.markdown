@@ -14,7 +14,7 @@ header-img: "img/home-bg.jpg"
 <p>You can run QuickJava on Windows by Cygwin environment and Notepad++ editor.</p>
 
 <a href="#">
-    <img src="https://github.com/emanuelepaiano/quickjava/blob/master/screenshot.png" alt="Screenshot">
+    <img src="https://github.com/emanuelepaiano/quickjava/blob/master/screenshot.png?raw=true" alt="Screenshot">
 </a>
 
 <h2 class="section-heading">WRITING THE FIRST PROGRAM: HELLO WORLD</h2>

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "ESPRESSO PHP PORTAL"
+title:      "Espresso Ubiquiti Captive Portal"
 subtitle:   "Building a custom Wifi hotspot on ubiquiti network"
 date:       2017-03-8 12:00:00
 author:     "Emanuele Paiano"

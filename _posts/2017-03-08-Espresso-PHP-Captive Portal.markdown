@@ -9,7 +9,7 @@ header-img: "img/home-bg.jpg"
 
 <p>This tool can be used for build coffee or restaurants free wifi hotspots without pay external cloud services. Works with Ubiquiti Unifi controller v4 or later</p>
 
-![alt tag](https://github.com/emanuelepaiano/espresso-freewifi-portal/blob/master/screenshots/en.png)
+![alt tag](https://github.com/emanuelepaiano/espresso-freewifi-portal/blob/master/screenshots/en.png?raw=true)
 
 <p><a href="https://github.com/emanuelepaiano/espresso-portal">Download from github repository</a></p>
 

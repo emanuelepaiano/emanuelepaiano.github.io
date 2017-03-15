@@ -13,6 +13,10 @@ header-img: "img/home-bg.jpg"
 
 <p>You can run QuickJava on Windows by Cygwin environment and Notepad++ editor.</p>
 
+<a href="#">
+    <img src="https://github.com/emanuelepaiano/quickjava/blob/master/screenshot.png" alt="Screenshot">
+</a>
+
 <h2 class="section-heading">WRITING THE FIRST PROGRAM: HELLO WORLD</h2>
 <p>Open terminal, go into quickjava directory and create new project into workspace:</p>
 <pre>
@@ -58,10 +62,6 @@ header-img: "img/home-bg.jpg"
   <p> The compiled jar file is present into build/Main.jar inside 
      my_project directory in workspace. The "translated" java file 
 	 is present into jsrc/ directory.</p>
-
-<a href="#">
-    <img src="https://github.com/emanuelepaiano/quickjava/blob/master/screenshot.png" alt="Post Sample Image">
-</a>
 
 
 <h2 class="section-heading">Install</h2>

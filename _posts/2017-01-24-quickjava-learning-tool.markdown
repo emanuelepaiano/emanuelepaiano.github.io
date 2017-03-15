@@ -11,7 +11,7 @@ header-img: "img/home-bg.jpg"
 
 <p><a href="https://github.com/emanuelepaiano/quickjava">Download from github repository</a></p>
 
-<p>To run on a Linux host, you need Oracle JDK or Openjdk, bash terminal, make tools and a text editor (like nano or gedit) installed on your linux distro.</p>
+<p>To run on a Linux host, you need Oracle JDK or Openjdk, bash terminal, make tools and a text editor (like nano or gedit) installed on your linux distro. If you want run qjide (GUI version), you need QT libs 4.8.</p>
 
 <p>You can run QuickJava on Windows by Cygwin environment and Notepad++ editor.</p>
 

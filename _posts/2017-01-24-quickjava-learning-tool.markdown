@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "Quickjava, a simple learning tool for novice"
+title:      "Quickjava, a simple learning tool for novices"
 subtitle:   "Learning Java in a procedural style"
 date:       2017-01-24 12:00:00
 author:     "Emanuele Paiano"
 header-img: "img/home-bg.jpg"
 ---
 
-<p>QuickJava has been shared on github, so you can download and start programming Java in procedural style, without classes concepts.</p>
+<p>QuickJava has been shared on github, so you can download and start programming Java in a procedural style, without classes concepts.</p>
 
 <p><a href="https://github.com/emanuelepaiano/quickjava">Download from github repository</a></p>
 

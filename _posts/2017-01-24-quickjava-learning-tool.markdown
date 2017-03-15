@@ -9,6 +9,8 @@ header-img: "img/home-bg.jpg"
 
 <p>QuickJava has been shared on github, so you can download and start programming Java in procedural style, without classes concepts.</p>
 
+<p><a href="https://github.com/emanuelepaiano/quickjava">Download from github repository</a></p>
+
 <p>To run on a Linux host, you need Oracle JDK or Openjdk, bash terminal, make tools and a text editor (like nano or gedit) installed on your linux distro.</p>
 
 <p>You can run QuickJava on Windows by Cygwin environment and Notepad++ editor.</p>

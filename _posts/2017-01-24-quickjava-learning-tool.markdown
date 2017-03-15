@@ -60,7 +60,7 @@ header-img: "img/home-bg.jpg"
 	 is present into jsrc/ directory.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+    <img src="https://github.com/emanuelepaiano/quickjava/blob/master/screenshot.png" alt="Post Sample Image">
 </a>
 
 

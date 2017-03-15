@@ -9,19 +9,38 @@ header-img: "img/home-bg.jpg"
 
 <p>QuickJava has been shared on github, so you can download and start to coding.</p>
 
-<p>To run on a Linux host, you need Oracle Java or Openjdk, a terminal and a text editor (like nano or gedit) installed on your linux distro.</p>
+<p>To run on a Linux host, you need Oracle JDK or Openjdk, bash terminal, make tools and a text editor (like nano or gedit) installed on your linux distro.</p>
 
 <p>You can run QuickJava on Windows by Cygwin environment and notepad++ editor.</p>
 
-<h2 class="section-heading">Getting Started</h2>
+<h2 class="section-heading">INSTALLATION</h2>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+Once installed basic software (java compilers and make), you can install quick 
+java following next istructions:
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+2.1) GNU/LINUX - UNIX: 
+     extract quickjava package to home directory
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+2.1.1) Set JDK_PATH, JRE_PATH, JAR_PATH in conf/config.cfg.
+       if have installed openjdk into your home then JDK_PATH=~/openjdk/bin/
+       else leave empty these values if you have installed into default system path
+       (in more linux distros you can install openjdk from a package manager)
 
-<p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
+2.1.2) Run chmod update-env and run the script to configure:
+
+<blockquote>
+       user@hostname ~/quickjava $ chmod +x update-env
+
+       user@hostname ~/quickjava $ ./update-env
+       Created conf/global.cfg
+       Created conf/make.hd
+       Generating Makefile..OK
+       Makefile found
+
+       Everything should be ready to start now. </blockquote>
+
+
+
 
 <h2 class="section-heading">Reaching for the Stars</h2>
 

@@ -21,21 +21,23 @@ header-img: "img/home-bg.jpg"
      Generating Makefile..OK
      Makefile found
      Project my_project created into directory workspace 
-     Copying libs to workspace/my_project/lib/ ...OK</pre>
+     Copying libs to workspace/my_project/lib/ ...OK
+</pre>
 <p>
      Now you can find your project into folder workspace/. We must edit main() function
      into workspace/my_project/main.java file. To write on screen use default java statement
      System.out.print() or System.out.println().</p>
     
     <p>This is final code into main.java:</p>
+    
 <pre>
      void main(String[] args)
      {
       System.out.print("Hello Word!\n");
      }
-     </pre><p>
-     We can run with 'make run PRJ=my_project' in terminal:</p>
-     <pre>
+     </pre>
+<p> We can run with 'make run PRJ=my_project' in terminal:</p>
+<pre>
      lele@ema-notebook ~/quickjava $ make run PRJ=my_project
      Removing old class files..OK
      Removing old java files..OK
@@ -47,7 +49,7 @@ header-img: "img/home-bg.jpg"
 
      Hello Word!
      QuickJava program terminated successfully.
-     </pre>
+ </pre>
     <p> The compiled jar file is present into build/Main.jar inside 
      my_project directory in workspace. The "translated" java file 
 	 is present into jsrc/ directory.</p>

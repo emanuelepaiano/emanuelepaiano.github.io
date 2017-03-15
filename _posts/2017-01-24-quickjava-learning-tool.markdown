@@ -47,8 +47,8 @@ header-img: "img/home-bg.jpg"
 
      Hello Word!
      QuickJava program terminated successfully.
-     </pre><p>
-     The compiled jar file is present into build/Main.jar inside 
+     </pre>
+    <p> The compiled jar file is present into build/Main.jar inside 
      my_project directory in workspace. The "translated" java file 
 	 is present into jsrc/ directory.</p>
 

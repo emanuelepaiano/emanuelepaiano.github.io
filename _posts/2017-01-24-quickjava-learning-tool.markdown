@@ -15,18 +15,18 @@ header-img: "img/home-bg.jpg"
 
 <h2 class="section-heading">INSTALLATION</h2>
 
-Once installed basic software (java compilers and make), you can install quick 
-java following next istructions:
+<p>Once installed basic software (java compilers and make), you can install quick 
+java following next istructions:</p>
 
-2.1) GNU/LINUX - UNIX: 
+<h3 class="section-heading"> 1) GNU/LINUX - UNIX:</h3>
      extract quickjava package to home directory
 
-2.1.1) Set JDK_PATH, JRE_PATH, JAR_PATH in conf/config.cfg.
+<p>1) Set JDK_PATH, JRE_PATH, JAR_PATH in conf/config.cfg.
        if have installed openjdk into your home then JDK_PATH=~/openjdk/bin/
        else leave empty these values if you have installed into default system path
-       (in more linux distros you can install openjdk from a package manager)
+       (in more linux distros you can install openjdk from a package manager)</p>
 
-2.1.2) Run chmod update-env and run the script to configure:
+2) Run chmod update-env and run the script to configure:
 
 <blockquote>
        user@hostname ~/quickjava $ chmod +x update-env

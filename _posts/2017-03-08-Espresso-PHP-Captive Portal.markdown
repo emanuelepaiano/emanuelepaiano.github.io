@@ -4,7 +4,7 @@ title:      "Espresso Ubiquiti Captive Portal"
 subtitle:   "Building a custom Wifi hotspot on ubiquiti network"
 date:       2017-03-8 12:00:00
 author:     "Emanuele Paiano"
-header-img: "img/4.jpg"
+header-img: "img/home-bg.jpg"
 ---
 
 <p>This tool can be used for build coffee or restaurants free wifi hotspots without pay external cloud services. Works with Ubiquiti Unifi controller v4 or later</p>

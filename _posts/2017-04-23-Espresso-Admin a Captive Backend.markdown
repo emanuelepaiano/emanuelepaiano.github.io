@@ -26,6 +26,6 @@ header-img: "img/4.jpg"
 
 <h2 class="section-heading">Install</h2>
 
-<p>For install read <a href="https://github.com/emanuelepaiano/espresso-admin/blob/master/README.md">README.md file and Cakephp docs</a></p>
+<p>For install read <a href="https://github.com/emanuelepaiano/espresso-admin/blob/master/README.md">README.md file</a>and Cakephp docs</p>
 
 

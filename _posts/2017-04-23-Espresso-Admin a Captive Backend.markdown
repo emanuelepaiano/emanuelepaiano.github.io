@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Espresso Admin, a admin web interface for Espresso"
-subtitle:   "Administration Espresso interface"
+title:      "Espresso Admin, a web interface for Espresso"
+subtitle:   "Administration Espresso PHP backend"
 date:       2017-04-23 12:00:00
 author:     "Emanuele Paiano"
 header-img: "img/4.jpg"

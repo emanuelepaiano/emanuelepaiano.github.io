@@ -18,6 +18,7 @@ header-img: "img/4.jpg"
 <li>Ubiquiti unifi access points</li>
 <li>Host with running a web server with php support (like Apache2 or Nginx) and unifi controller</li>
 <li>A RDBMS (like Mysql o Sqlite3) with POD support.</li>
+</ul>
 </p>
 
 <p><a href="https://github.com/emanuelepaiano/espresso-portal/blob/master/README.md">Consult README.md for install guide</a></p>

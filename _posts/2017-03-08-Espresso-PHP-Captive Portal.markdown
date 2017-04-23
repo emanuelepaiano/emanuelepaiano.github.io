@@ -7,13 +7,18 @@ author:     "Emanuele Paiano"
 header-img: "img/4.jpg"
 ---
 
-<p>This tool can be used for build coffee or restaurants free wifi hotspots without pay external cloud services. Works with Ubiquiti Unifi controller v4 or later</p>
+<p>This tool can be used for build coffee or restaurants free wifi hotspots without pay external cloud services. Works with Ubiquiti Unifi controller v4+</p>
 
 ![alt tag](https://github.com/emanuelepaiano/espresso-freewifi-portal/blob/master/screenshots/en.png?raw=true)
 
-<p><a href="https://github.com/emanuelepaiano/espresso-portal">Download from github repository</a></p>
+<p><a href="https://github.com/emanuelepaiano/espresso-portal">You can see github repository</a></p>
 
-<p>You need ubiquiti unifi access points with running controller, an host with web server and php support (like Apache2 or Nginx). A dbms (like Mysql o Sqlite3) with pdo support.</p>
+<p>You need:
+<ul>
+<li>Ubiquiti unifi access points</li>
+<li>Host with running a web server with php support (like Apache2 or Nginx) and unifi controller</li>
+<li>A RDBMS (like Mysql o Sqlite3) with POD support.</li>
+</p>
 
 <p><a href="https://github.com/emanuelepaiano/espresso-portal/blob/master/README.md">Consult README.md for install guide</a></p>
 

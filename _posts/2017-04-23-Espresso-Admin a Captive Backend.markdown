@@ -4,7 +4,7 @@ title:      "Espresso Admin, a admin web interface for Espresso"
 subtitle:   "Administration Espresso interface"
 date:       2017-04-23 12:00:00
 author:     "Emanuele Paiano"
-header-img: "img/home-bg.jpg"
+header-img: "img/4.jpg"
 ---
 
 <p>Espresso Admin has been shared on github, so you can download and administrate <a href="https://github.com/emanuelepaiano/espresso-portal">Espresso</a> hotspot clients by a web responsive interface.</p>

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "WifiQR and Multiple Product Tasks"
-subtitle:   ""
+subtitle:   "PHP script and prestashop plugin"
 date:       2017-04-23 12:00:00
 author:     "Emanuele Paiano"
 header-img: "img/4.jpg"

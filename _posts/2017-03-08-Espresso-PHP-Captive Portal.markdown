@@ -17,7 +17,7 @@ header-img: "img/4.jpg"
 <ul>
 <li>Ubiquiti unifi access points</li>
 <li>Host with running a web server with php support (like Apache2 or Nginx) and unifi controller</li>
-<li>A RDBMS (like Mysql o Sqlite3) with POD support.</li>
+<li>A RDBMS (like Mysql o Sqlite3) with PDO support.</li>
 </ul>
 </p>
 

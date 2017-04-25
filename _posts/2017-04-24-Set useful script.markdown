@@ -9,7 +9,7 @@ header-img: "img/4.jpg"
 
 <p>My PHP projects, WifiQR and MPT, has been shared on github</p>
 
-<p>WifiQR generator is a qrcode ESSID for you wireless network (included in espresso-admin)</p>
+<p>WifiQR is a qrcode generator for you wireless network (included in espresso-admin)</p>
 
 <p><a href="https://github.com/emanuelepaiano/wifiqr">You can see WifiQR github repository</a></p>
 

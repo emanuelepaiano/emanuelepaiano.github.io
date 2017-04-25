@@ -1,19 +1,19 @@
 ---
 layout:     post
-title:      "PHP WifiQR and emampt prestashop"
+title:      "WifiQR and Multiple Product Tasks"
 subtitle:   ""
 date:       2017-04-23 12:00:00
 author:     "Emanuele Paiano"
 header-img: "img/4.jpg"
 ---
 
-<p>PHP WifiQR generator and emampt prestashop module has been shared on github</p>
+<p>My PHP projects, WifiQR and MPT, has been shared on github</p>
 
-<p>WifiQR generator is a php tool useful to generate QRCode ESSID for you wireless network</p>
+<p>WifiQR generator is a qrcode ESSID for you wireless network (included in espresso-admin)</p>
 
 <p><a href="https://github.com/emanuelepaiano/wifiqr">You can see WifiQR github repository</a></p>
 
-<p>By EMAMpt prestashop 1.5 plugin, you can edit price (increase or decrease) from prestashop database</p>
+<p>Multiple Product Tasks (emampt) is a prestashop 1.5 plugin. Using this tool, you can edit products price (increase or decrease) and quantities into your prestashop ecommerce.</p>
 
 <p><a href="https://github.com/emanuelepaiano/emampt">You can see Emampt github repository</a></p>
 

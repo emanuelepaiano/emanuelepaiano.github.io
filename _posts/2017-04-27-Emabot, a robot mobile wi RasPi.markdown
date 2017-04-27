@@ -4,7 +4,7 @@ title:      "Emabot, a robot mobile with Raspberry and Arduino"
 subtitle:   "Transform a toy car to linux robot mobile"
 date:       2017-04-27 12:00:00
 author:     "Emanuele Paiano"
-header-img: "img/1.jpg"
+header-img: "img/4.jpg"
 ---
 
 <h2 class="section-heading">About this project</h2>

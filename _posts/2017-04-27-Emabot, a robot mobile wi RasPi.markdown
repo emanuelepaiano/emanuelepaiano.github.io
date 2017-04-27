@@ -22,7 +22,7 @@ header-img: "img/asimov.jpg"
 </a>
 
 <a href="#">
-    <img src="https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/08.jpg?raw=true" alt="Screenshot">
+    <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/08.jpg?raw=true" alt="Screenshot">
 </a>
 
 <h2 class="section-heading">Youtube</h2>

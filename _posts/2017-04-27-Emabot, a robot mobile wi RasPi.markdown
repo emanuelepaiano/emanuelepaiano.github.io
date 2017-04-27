@@ -27,7 +27,7 @@ header-img: "img/asimov.jpg"
 
 <h2 class="section-heading">Youtube</h2>
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CbBROWYHJkE" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/embed/CbBROWYHJkE
 
 <h2 class="section-heading">Tutorials</h2>
  

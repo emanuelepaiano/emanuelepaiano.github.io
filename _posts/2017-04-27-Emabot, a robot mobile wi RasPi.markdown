@@ -14,11 +14,11 @@ header-img: "img/asimov.jpg"
 <p><a href="https://github.com/emanuelepaiano/emabot">You can see github repository</a></p>
 
 <a href="#">
-    <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/01.png?raw=true" alt="Screenshot">
+    <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/01.jpg?raw=true" alt="Screenshot">
 </a>
 
 <a href="#">
-    <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/07.png?raw=true" alt="Screenshot">
+    <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/07.jpg?raw=true" alt="Screenshot">
 </a>
 
 <a href="#">

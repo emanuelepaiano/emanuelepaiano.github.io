@@ -31,6 +31,6 @@ header-img: "img/asimov.jpg"
 
 <h2 class="section-heading">Tutorials</h2>
  
-<p>Papers is (temporary) available in <a href="https://github.com/emanuelepaiano/espresso-admin/blob/master/README.md">Italian language</a></p>
+<p>Papers is (temporary) available in <a href="https://github.com/emanuelepaiano/emabot/blob/master/Emabot_ITA_part%201.pdf">Italian language</a></p>
 
 

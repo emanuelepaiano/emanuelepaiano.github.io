@@ -2,7 +2,7 @@
 layout:     post
 title:      "Emabot, a robot mobile with Raspberry and Arduino"
 subtitle:   "Transform a toy car into a linux robot mobile"
-date:       2017-04-27 23:48:00
+date:       2017-04-27 23:49:00
 author:     "Emanuele Paiano"
 header-img: "img/asimov.jpg"
 ---
@@ -26,7 +26,7 @@ header-img: "img/asimov.jpg"
 </a>
 
 <h2 class="section-heading">Youtube</h2>
-
+{% include youtube.html id="CbBROWYHJkE" %}
 
 <h2 class="section-heading">Tutorials</h2>
  

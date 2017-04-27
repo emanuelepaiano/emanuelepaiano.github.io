@@ -26,7 +26,7 @@ header-img: "img/asimov.jpg"
 </a>
 
 <h2 class="section-heading">Youtube</h2>
-
+{% include youtube.html id="CbBROWYHJkE" %}
 
 <h2 class="section-heading">Tutorials</h2>
  

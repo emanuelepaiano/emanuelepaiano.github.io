@@ -25,8 +25,8 @@ header-img: "img/asimov.jpg"
     <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/08.jpg?raw=true" alt="Screenshot">
 </a>
 
-<h2 class="section-heading">Youtube</h2>
-{% include youtube.html id="CbBROWYHJkE" %}
+<h2 class="section-heading">VIDEO</h2>
+<a href="https://www.youtube.com/watch?v=CbBROWYHJkE">Testing Emabot on youtube</a>
 
 <h2 class="section-heading">Tutorials</h2>
  

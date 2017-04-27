@@ -7,6 +7,7 @@ author:     "Emanuele Paiano"
 header-img: "img/asimov.jpg"
 ---
 
+
 <h2 class="section-heading">About this project</h2>
 
 <p>I've transformed an old toy car into a remote controlled robot mobile. It can speak, move, emulating games and streaming real-time videos from webcam</p>

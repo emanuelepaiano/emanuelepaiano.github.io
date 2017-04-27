@@ -7,25 +7,30 @@ author:     "Emanuele Paiano"
 header-img: "img/asimov.jpg"
 ---
 
-<p>I've transformed an old toy car to a remote controlled robot mobile. It can speak, emulating games and streaming from webcam</p>
+<h2 class="section-heading">About this project</h2>
+
+<p>I've transformed an old toy car to a remote controlled robot mobile. It can speak, move, emulating games and streaming real-time videos from webcam</p>
 
 <p><a href="https://github.com/emanuelepaiano/emabot">You can see github repository</a></p>
 
 <a href="#">
-    <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/01.jpg?raw=true" alt="Screenshot">
+    <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/01.png?raw=true" alt="Screenshot">
 </a>
 
 <a href="#">
-    <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/07.jpg?raw=true" alt="Screenshot">
+    <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/07.png?raw=true" alt="Screenshot">
 </a>
 
 <a href="#">
     <img src="https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/08.jpg?raw=true" alt="Screenshot">
 </a>
 
+<h2 class="section-heading">Youtube</h2>
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbBROWYHJkE" frameborder="0" allowfullscreen></iframe>
 
 <h2 class="section-heading">Tutorials</h2>
  
-<p>Tutorials is (temporary) available in <a href="https://github.com/emanuelepaiano/emabot/blob/master/Emabot_ITA_part%201.pdf">Italian language</a></p>
+<p>Papers is (temporary) available in <a href="https://github.com/emanuelepaiano/espresso-admin/blob/master/README.md">Italian language</a></p>
 
 

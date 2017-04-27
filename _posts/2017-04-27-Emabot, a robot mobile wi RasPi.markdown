@@ -26,13 +26,7 @@ header-img: "img/asimov.jpg"
 </a>
 
 <h2 class="section-heading">Youtube</h2>
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/embed/CbBROWYHJkE" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/embed/CbBROWYHJkE"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CbBROWYHJkE" frameborder="0" allowfullscreen></iframe>
 
 <h2 class="section-heading">Tutorials</h2>
  

@@ -90,11 +90,11 @@ Il modulo L298N (figura [fig:Il-modulo-L298N]), detto anche H-Bridge, è un modu
 
 -   Gli ingressi IN1 e IN2 funzionano come mostrato in Tabella [tab:Comandi-del-motore]. Lo stesso discorso vale per IN3 e IN4, solo che viene gestito il motore B.
 
-| azione motore a  |  in1 | in2  |   |   |
+| azione motore a  |  in1 | in2  |
 |---|---|---|---|---|
-| fermo  | low  | low  |   |   |
-| ruota in senso orario  | high  | low  |   |   |
-| ruota in senso antiorario  | low  | high  |   |   |
+| fermo  | low  | low  |
+| ruota in senso orario  | high  | low  |
+| ruota in senso antiorario  | low  | high  |
 
 ![image](L298N_small)
 

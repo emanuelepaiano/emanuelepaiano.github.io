@@ -88,13 +88,7 @@ Il modulo L298N (figura [fig:Il-modulo-L298N]), detto anche H-Bridge, è un modu
 
 -   Enable Motor B (ENB): vale lo stesso discorso di ENA, ma per il motore B.
 
--   Gli ingressi IN1 e IN2 funzionano come mostrato in Tabella [tab:Comandi-del-motore]. Lo stesso discorso vale per IN3 e IN4, solo che viene gestito il motore B.
-
-|  | in1  | in2 |
-|---|---|---|---|---|
-| fermo  | low  | low |
-| ruota in senso orario  | high  | low |
-| ruota in senso antiorario  | low | high |
+-   Gli ingressi IN1 e IN2 funzionano come mostrato in Tabella sotto. Lo stesso discorso vale per IN3 e IN4, solo che viene gestito il motore B.
 
 | Azione motore A    |     IN1     |  IN2 |
 |----------|:-------------:|------:|
@@ -107,9 +101,17 @@ Il modulo L298N (figura [fig:Il-modulo-L298N]), detto anche H-Bridge, è un modu
 
 ### Montaggio e sketch
 
-I collegamenti da effettuare tra i pin di Arduino e quelli del H-Bridge sono descritti in Tabella [tab:Collegamento-pin-tra]
+I collegamenti da effettuare tra i pin di Arduino e quelli del H-Bridge sono descritti nella tabella seguente
 
-<span>|c|c|</span> PIN ARDUINO & PIN H-BRIDGEGND & GNDD9 & ENAD3 & ENBD7 & IN1D6 & IN2D5 & IN3D4 & IN4
+| PIN ARDUINO    |      PIN H-BRIDGE |
+|----------|------:|
+| GND | GND |
+| D9 | ENA |
+| D3 | ENB |
+| D7 | IN1 |
+| D6 | IN2 |
+| D5 | IN3 |
+| D4 | IN4 |
 
 In Figura [fig:Collegamento-di-Arduino] possiamo vedere lo schema completo. Il motore cc utilizzato è il Mabuchi FA130 a 3V (spesso presente nei giocattoli elettrici, come trenini e macchine da pista polistil), ma il modulo ne supporta anche altri tipi. Montato il circuito, possiamo pensare all’implementazione dello sketch di Arduino.
 

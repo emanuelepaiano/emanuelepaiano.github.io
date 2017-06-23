@@ -279,7 +279,18 @@ Il codice seguente è lo sketch da caricare in Arduino.
 
 Il funzionamento del programma è relativamente semplice: i comandi sono semplici caratteri ricevuti sulla porta seriale e, in base al byte ricevuto, viene richiamata una funzione corrispondente ad un’azione da eseguire (*forward, reverse, turnLeft, turnRight, stop e straight*). I comandi possono essere riassunti in Tabella [tab:Comandi-da-inviare].
 
-<span>|c|c|</span> comando & azioneA & marcia avantia & marcia indietroL & sterzo destral & sterzo sinistras & marcia stopS & raddrizza sterzo+ & aumenta velocità- & riduci velocità
+
+| COMANDO    |      AZIONE |
+|----------|------:|
+| A | avanti |
+| a | indietro |
+| L | sterzo destra |
+| l | sterzo sinistra |
+| s | stop |
+| S | raddrizza sterzo |
+| + | aumenta velocità |
+| - | riduci velocità |
+
 
 I possibili livelli di velocità variano da 1 a 5. Si è preferito usare questi valori fittizzi (anzicchè quelli compresi tra 0 a 255), per semplificare l’aumento e la riduzione della velocità utilizzando i caratteri ’+’ e ’-’. Il livello iniziale è 4, in quanto se c’è scarsa trazione, il robot non si muove. Inoltre, per allungarne la vita, si è preferito impostare a 200 il limite massimo del pwm di marcia e a 150 quello dello sterzo: valori più alti sono inutili, data la struttura della nostra macchina (dare troppa potenza al motorino dello sterzo potrebbe essere dannoso).
 

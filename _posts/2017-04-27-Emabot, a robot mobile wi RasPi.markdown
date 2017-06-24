@@ -26,10 +26,13 @@ header-img: "img/asimov.jpg"
 </a>
 
 <h2 class="section-heading">VIDEO</h2>
-<a href="https://www.youtube.com/watch?v=CbBROWYHJkE">Testing Emabot on youtube</a>
+<a href="https://www.youtube.com/watch?v=CbBROWYHJkE">Emabot demo</a>
 
 <h2 class="section-heading">Tutorials</h2>
  
-<p>Papers is (temporary) available in <a href="https://github.com/emanuelepaiano/emabot/blob/master/Emabot_ITA_part%201.pdf">Italian language</a></p>
-
+<p>Part 1 ITA 
+    <a href="https://github.com/emanuelepaiano/emabot/blob/master/Emabot_ITA_part%201.pdf">pdf</a>
+    <a href="https://github.com/emanuelepaiano/emabot/blob/master/markdown/robot_raspberry.markdown
+">markdown</a>
+</p>
 

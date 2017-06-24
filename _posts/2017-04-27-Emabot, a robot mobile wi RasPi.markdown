@@ -30,7 +30,7 @@ header-img: "img/asimov.jpg"
 
 <h2 class="section-heading">Tutorials</h2>
  
-<p>Part 1 ITA 
+<p>Part 1 ITA - Motors shield, Arduino and Raspberry 
     <a href="https://github.com/emanuelepaiano/emabot/blob/master/Emabot_ITA_part%201.pdf">pdf</a>
     <a href="https://github.com/emanuelepaiano/emabot/blob/master/markdown/robot_raspberry.markdown
 ">markdown</a>

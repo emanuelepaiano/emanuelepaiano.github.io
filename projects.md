@@ -1,0 +1,52 @@
+---
+layout: page
+title: "Projects"
+description: "Coding for fun..."
+header-img: "img/children.jpg"
+---
+
+<h2>Projects</h2>
+
+<ul>
+        <li>
+                <p>
+                        Emabot: a linux mobile robot > 
+                        <a href="https://emanuelepaiano.github.io//2017/04/27/Emabot,-a-robot-mobile-wi-RasPi/">tutorials</a>,
+                        <a href="https://github.com/emanuelepaiano/emabot/">repository</a>
+                </p>
+        </li>
+        <li>
+                <p>
+                        Espresso Captive Portal for Ubiquity APs: Building a coffee captive hotspot Wifi by yourself (no commercial cloud!) > 
+                        <a href="https://emanuelepaiano.github.io//2017/03/08/Espresso-PHP-Captive-Portal/">project page</a>
+                        <a href="https://github.com/emanuelepaiano/espresso-portal">repository</a>
+                </p>
+        </li>
+        <li>
+                <p>
+                        Espresso Admin: database administration backend for Espresso Captive Portal > 
+                        <a href="https://emanuelepaiano.github.io//2017/04/23/Espresso-Admin-a-Captive-Backend/">project page</a>
+                        <a href="https://github.com/emanuelepaiano/espresso-admin">repository</a>
+                </p>
+        </li>
+        <li>
+                <p>
+                        Multiple Product Task: prestashop plugin for changing prices/quantities products in a category  > 
+                        <a href="https://github.com/emanuelepaiano/emampt">repository</a>
+                </p>
+        </li>
+        
+        <li>
+                <p>
+                        WifiQR: PHP qrcode generator for wifi networks > 
+                        <a href="https://github.com/emanuelepaiano/wifiqr">repository</a>
+                </p>
+        </li>
+        <li>
+                <p>
+                        Quickjava: java procedural emulation preprocessor and mini IDE  > 
+                        <a href="https://emanuelepaiano.github.io//2017/01/24/quickjava-learning-tool/">project page</a>
+                        <a href="https://github.com/emanuelepaiano/quickjava">repository</a>
+                </p>
+        </li>
+</ul>

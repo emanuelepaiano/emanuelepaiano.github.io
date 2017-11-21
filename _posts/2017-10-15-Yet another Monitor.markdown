@@ -16,7 +16,7 @@ Serialduino support following connection types:
 <li>Bluetooth RFCOMM</li>
 </ul>
 
-## How does it work?
+<h2 class="section-heading">How does it work?</h2>
 Connection is based on a serial monitor class (ArduinoSerialMonitor.java). This class call some LinkDevice methods to communicate with Arduino. 
 LinkDevice is an interface implemented from devices class, like ComLinkDevice, BluetoothLinkDevice and TcpLinkDevice.
 

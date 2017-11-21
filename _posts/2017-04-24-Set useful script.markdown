@@ -16,6 +16,3 @@ header-img: "img/4.jpg"
 <p>Multiple Product Tasks (emampt) is a prestashop 1.5 plugin. Using this tool, you can edit products price (increase or decrease) and products quantity into your prestashop database.</p>
 
 <p><a href="https://github.com/emanuelepaiano/emampt">Emampt Github repository</a></p>
-
-
-

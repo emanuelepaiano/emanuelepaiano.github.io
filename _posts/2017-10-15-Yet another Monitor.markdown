@@ -31,21 +31,21 @@ If you want to connect to Arduino using COM port, you need pass ComLinkDevice to
 <pre>
      if (ComLinkDevice.isPortAvailable()){
 			
-			// COM Port for Linux
-			//ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPortByName("ttyUSB0"), ComLinkDevice.BAUDRATE_9600);
+	// COM Port for Linux
+	//ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPortByName("ttyUSB0"), ComLinkDevice.BAUDRATE_9600);
 			
-			// COM Port for Windows/Dos
-			//ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPortByName("COM1"), ComLinkDevice.BAUDRATE_9600);
+	// COM Port for Windows/Dos
+	//ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPortByName("COM1"), ComLinkDevice.BAUDRATE_9600);
 			
 			
-			// First COM serial port
-			ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPorts()[0], ComLinkDevice.BAUDRATE_9600);
+	// First COM serial port
+	ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPorts()[0], ComLinkDevice.BAUDRATE_9600);
 			
-			ArduinoSerialMonitor arduinoSerial=new ArduinoSerialMonitor(port);
+	ArduinoSerialMonitor arduinoSerial=new ArduinoSerialMonitor(port);
 			
-			/* ........ */
+	/* ........ */
 			
-	 }
+ }
 </pre>
 
 you can find port automatically using getPorts() (it returns an array ports), or calling getPortByName(), passing port's name (name can changes on different operating systems). 

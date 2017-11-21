@@ -7,7 +7,7 @@ author:     "Emanuele Paiano"
 header-img: "img/asimov.jpg"
 ---
 
-<h2 class="section-heading">About this project</h2>
+<h1 class="section-heading">About this project</h2>
 Using this tool you can communicate with Arduino (compatible devices) using a special Java class directly within a thread.
 Serialduino support following connection types:
 <ul>
@@ -29,43 +29,43 @@ LinkDevice is an interface implemented from devices class, like ComLinkDevice, B
 If you want to connect to Arduino using COM port, you need pass ComLinkDevice to ArduinoSerial Monitor object:
 
 <pre>
-     if (ComLinkDevice.isPortAvailable()){
+ if (ComLinkDevice.isPortAvailable()){
+		
+ // COM Port for Linux
+ //ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPortByName("ttyUSB0"), ComLinkDevice.BAUDRATE_9600);
+		
+ // COM Port for Windows/Dos
+ //ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPortByName("COM1"), ComLinkDevice.BAUDRATE_9600);
+		
+		
+ // First COM serial port
+ ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPorts()[0], ComLinkDevice.BAUDRATE_9600);
+		
+ ArduinoSerialMonitor arduinoSerial=new ArduinoSerialMonitor(port);
+		
+ /* ........ */
 			
-	// COM Port for Linux
-	//ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPortByName("ttyUSB0"), ComLinkDevice.BAUDRATE_9600);
-			
-	// COM Port for Windows/Dos
-	//ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPortByName("COM1"), ComLinkDevice.BAUDRATE_9600);
-			
-			
-	// First COM serial port
-	ComLinkDevice port=new ComLinkDevice(ComLinkDevice.getPorts()[0], ComLinkDevice.BAUDRATE_9600);
-			
-	ArduinoSerialMonitor arduinoSerial=new ArduinoSerialMonitor(port);
-			
-	/* ........ */
-			
- }
+}
 </pre>
 
 you can find port automatically using getPorts() (it returns an array ports), or calling <i>getPortByName()</i>, passing port's name (name can changes on different operating systems). 
 <br>Next step is open connection and communicate with Arduino, using <i>open()</i>, <i>send()</i> and <i>receiveString()</i> method:
 <pre>
-            //open and wait for arduino reboot
-			arduinoSerial.open();
-			
-			//if device ready, send "hello" string to Arduino
-			arduinoSerial.send("hello");
-			
-			//Receive echo response: you should see "hello" on java console
-			System.out.print(arduinoSerial.receiveString());
+ //open and wait for arduino reboot
+ arduinoSerial.open();
+
+ //if device ready, send "hello" string to Arduino
+ arduinoSerial.send("hello");
+
+ //Receive echo response: you should see "hello" on java console
+ System.out.print(arduinoSerial.receiveString());
 </pre>
 
 you can close connection with <i>close()</i> method:
 
 <pre>
-            //Close connection
-			arduinoSerial.close();
+ //Close connection
+ arduinoSerial.close();
 </pre>
 
 <br>

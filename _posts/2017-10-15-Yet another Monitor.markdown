@@ -24,7 +24,7 @@ LinkDevice is an interface implemented from devices class, like ComLinkDevice, B
 
 <br>
 
-##Demo
+<h2 class="section-heading">Demo</h2>
 
 If you want to connect to Arduino using COM port, you need pass ComLinkDevice to ArduinoSerial Monitor object:
 
@@ -72,10 +72,10 @@ you can close connection with <i>close()</i> method:
 
 See src/org/serialduino/examples for bluetooth and tcp examples.
 
-## Dependencies: 
+<h2 class="section-heading"> Dependencies:</h2> 
 SerialDuino require jSSC, for com support driver - https://code.google.com/archive/p/java-simple-serial-connector/
 
-## Install
+<h2 class="section-heading">Install</h2>
 Import this code into your Eclipse project. You need include jssc.jar and jssc-2.7.0-javadoc.jar for serial support. 
 
 ### License

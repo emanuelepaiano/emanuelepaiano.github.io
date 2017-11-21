@@ -22,8 +22,6 @@ LinkDevice is an interface implemented from devices class, like ComLinkDevice, B
 
 <img src="https://github.com/emanuelepaiano/serialduino/blob/master/img/image.jpg?raw=true">
 
-<br>
-
 <h2 class="section-heading">Demo</h2>
 
 If you want to connect to Arduino using COM port, you need pass ComLinkDevice object to ArduinoSerialMonitor constructor:

@@ -48,8 +48,8 @@ If you want to connect to Arduino using COM port, you need pass ComLinkDevice to
  }
 </pre>
 
-you can find port automatically using getPorts() (it returns an array ports), or calling getPortByName(), passing port's name (name can changes on different operating systems). 
-<br>Next step is open connection and communicate with Arduino, using open(), send() and receiveString() method:
+you can find port automatically using getPorts() (it returns an array ports), or calling <i>getPortByName()</i>, passing port's name (name can changes on different operating systems). 
+<br>Next step is open connection and communicate with Arduino, using <i>open()</i>, <i>send()</i> and <i>receiveString()</i> method:
 <pre>
             //open and wait for arduino reboot
 			arduinoSerial.open();
@@ -61,7 +61,7 @@ you can find port automatically using getPorts() (it returns an array ports), or
 			System.out.print(arduinoSerial.receiveString());
 </pre>
 
-you can close connection with close() method:
+you can close connection with <i>close()</i> method:
 
 <pre>
             //Close connection

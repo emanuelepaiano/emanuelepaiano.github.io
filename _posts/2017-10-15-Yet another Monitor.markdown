@@ -7,7 +7,7 @@ author:     "Emanuele Paiano"
 header-img: "img/asimov.jpg"
 ---
 
-<h1 class="section-heading">About this project</h2>
+<h1 class="section-heading">About this project</h1>
 Using this tool you can communicate with Arduino (compatible devices) using a special Java class directly within a thread.
 Serialduino support following connection types:
 <ul>

@@ -20,7 +20,7 @@ Serialduino support following connection types:
 Connection is based on a serial monitor class (ArduinoSerialMonitor.java). This class call some LinkDevice methods to communicate with Arduino. 
 LinkDevice is an interface implemented from devices class, like ComLinkDevice, BluetoothLinkDevice and TcpLinkDevice.
 
-<img src="https://github.com/emanuelepaiano/serialduino/blob/master/img/image.jpg">
+<img src="https://github.com/emanuelepaiano/serialduino/blob/master/img/image.jpg?raw=true">
 
 <br>
 
@@ -68,9 +68,8 @@ you can close connection with <i>close()</i> method:
  arduinoSerial.close();
 </pre>
 
-<br>
 
-See <a href="https://github.com/emanuelepaiano/serialduino/tree/master/src/org/serialduino/examples">src/org/serialduino/examples</a> for bluetooth and tcp examples.
+See <a href="https://github.com/emanuelepaiano/serialduino/tree/master/src/org/serialduino/examples">src/org/serialduino/examples</a> for Bluetooth and TCP examples.
 
 <h2 class="section-heading"> Dependencies:</h2> 
 SerialDuino require <a href="https://code.google.com/archive/p/java-simple-serial-connector/">jSSC</a>, for com support driver

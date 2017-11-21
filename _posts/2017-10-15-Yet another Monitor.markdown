@@ -8,7 +8,6 @@ header-img: "img/asimov.jpg"
 ---
 
 <h2 class="section-heading">About this project</h2>
-# Serialduino for Java v0.5
 Using this tool you can communicate with Arduino (compatible devices) using a special Java class directly within a thread.
 Serialduino support following connection types:
 <ul>
@@ -23,7 +22,9 @@ LinkDevice is an interface implemented from devices class, like ComLinkDevice, B
 
 <img src="https://github.com/emanuelepaiano/serialduino/blob/master/img/image.jpg">
 
-##Example
+<br>
+
+##Demo
 
 If you want to connect to Arduino using COM port, you need pass ComLinkDevice to ArduinoSerial Monitor object:
 

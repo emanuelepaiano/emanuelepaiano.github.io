@@ -7,7 +7,7 @@ author:     "Emanuele Paiano"
 header-img: "img/4.jpg"
 ---
 
-<p>Here there is my old PHP projects, like WifiQR and MPT.</p>
+<p>Here there are my old PHP projects, like WifiQR and MPT.</p>
 
 <p>WifiQR is a qrcode generator for you wireless network (this tool is included in espresso-admin)</p>
 

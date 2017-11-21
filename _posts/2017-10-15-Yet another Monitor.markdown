@@ -77,4 +77,3 @@ Import this code into your Eclipse project. You need include jssc.jar and jssc-2
 
 <h2 class="section-heading">License</h2>
 <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>
-

@@ -4,7 +4,7 @@ title:      "SerialDuino, Yet another Java Arduino Serial Monitor"
 subtitle:   "Connecting Java threads with Arduino"
 date:       2017-10-05 23:49:00
 author:     "Emanuele Paiano"
-header-img: "img/asimov.jpg"
+header-img: "img/arduino2.jpg"
 ---
 
 <h1 class="section-heading">About this project</h1>

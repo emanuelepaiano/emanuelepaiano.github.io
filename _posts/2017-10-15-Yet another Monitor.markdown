@@ -73,11 +73,11 @@ you can close connection with <i>close()</i> method:
 See <a href="https://github.com/emanuelepaiano/serialduino/tree/master/src/org/serialduino/examples">src/org/serialduino/examples</a> for bluetooth and tcp examples.
 
 <h2 class="section-heading"> Dependencies:</h2> 
-SerialDuino require jSSC, for com support driver - https://code.google.com/archive/p/java-simple-serial-connector/
+SerialDuino require <a href="https://code.google.com/archive/p/java-simple-serial-connector/">jSSC</a>, for com support driver
 
 <h2 class="section-heading">Install</h2>
 Import this code into your Eclipse project. You need include jssc.jar and jssc-2.7.0-javadoc.jar for serial support. 
 
 <h2 class="section-heading">License</h2>
-Apache 2.0 - http://www.apache.org/licenses/LICENSE-2.0
+<a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>
 

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Emabot, a robot mobile with Raspberry and Arduino"
+title:      "Emabot, a mobile robot with Raspberry and Arduino"
 subtitle:   "Transform a toy car into a linux robot mobile"
 date:       2017-04-27 23:49:00
 author:     "Emanuele Paiano"
@@ -11,7 +11,7 @@ header-img: "img/asimov.jpg"
 
 <p>I've transformed an old toy car into a remote controlled robot mobile. It can speak, move, emulating games and streaming real-time videos from webcam</p>
 
-<p><a href="https://github.com/emanuelepaiano/emabot">You can see github repository</a></p>
+<p><a href="https://github.com/emanuelepaiano/emabot">Github repository</a></p>
 
 <a href="#">
     <img src="https://github.com/emanuelepaiano/emabot/blob/master/screenshots/01.jpg?raw=true" alt="Screenshot">

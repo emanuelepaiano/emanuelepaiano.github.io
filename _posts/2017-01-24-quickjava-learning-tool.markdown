@@ -7,20 +7,20 @@ author:     "Emanuele Paiano"
 header-img: "img/home-bg.jpg"
 ---
 
-<p>QuickJava has been shared on github, so you can download and start programming Java in a procedural style, without classes concepts.</p>
+<p>By QuickJava, you can write Java program in a procedural paradigm, without classes concepts (useful for newbie).</p>
 
-<p><a href="https://github.com/emanuelepaiano/quickjava">Download from github repository</a></p>
+<p><a href="https://github.com/emanuelepaiano/quickjava">Github repository</a></p>
 
-<p>To run on a Linux host, you need Oracle JDK or Openjdk, bash terminal, make tools and a text editor (like nano or gedit) installed on your linux distro. If you want run qjide (GUI version), you need QT libs 4.8.</p>
+<p>If you run it on a Linux host, you need Oracle JDK or Openjdk, bash terminal, MAKE tools and a text editor (nano or gedit) installed on your linux distro. If you want run qjide (GUI version), you need QT libs 4.8.</p>
 
-<p>You can run QuickJava on Windows by Cygwin environment and Notepad++ editor.</p>
+<p>QuickJava can be runned on Windows using Cygwin environment and Notepad++ as editor.</p>
 
 <a href="#">
     <img src="https://github.com/emanuelepaiano/quickjava/blob/master/screenshot.png?raw=true" alt="Screenshot">
 </a>
 
 <h2 class="section-heading">WRITING THE FIRST PROGRAM: HELLO WORLD</h2>
-<p>Open terminal, go into quickjava directory and create new project into workspace:</p>
+<p>Open terminal, move into quickjava directory and create new project with make:</p>
 <pre>
      user@hostname ~/quickjava $ make new PRJ=my_project
      Creating main.java..OK
@@ -30,11 +30,11 @@ header-img: "img/home-bg.jpg"
      Copying libs to workspace/my_project/lib/ ...OK
 </pre>
 
-<p>Now you can find your project into folder workspace/. We must edit main() function
-     into workspace/my_project/main.java file. To write on screen use default java statement
+<p>You can see your project into workspace/ folder. You should write code into main() function
+     into workspace/my_project/main.java file. For output stream, you can use standard Java statement, like
      System.out.print() or System.out.println().</p>
     
- <p>This is final code into main.java:</p>
+ <p>Example:</p>
     
 <pre>
      void main(String[] args)
@@ -44,7 +44,7 @@ header-img: "img/home-bg.jpg"
  </pre>
      
      
-<p> We can run with 'make run PRJ=my_project' in terminal:</p>
+<p> To run it, type 'make run PRJ=my_project' in terminal:</p>
 
 <pre>
      lele@ema-notebook ~/quickjava $ make run PRJ=my_project
@@ -61,13 +61,12 @@ header-img: "img/home-bg.jpg"
  </pre>
   
   
-  <p> The compiled jar file is present into build/Main.jar inside 
-     my_project directory in workspace. The "translated" java file 
-	 is present into jsrc/ directory.</p>
+  <p> The compiled jar file is into workspace/my_project/build/Main.jar. 
+  The "translated" java file is into jsrc/ directory.</p>
 
 
 <h2 class="section-heading">Install</h2>
 
-<p>For install tutorials, writing new class and libs, read <a href="https://github.com/emanuelepaiano/quickjava/blob/master/doc/START.TXT">docs/start.txt file</a></p>
+<p>For install tutorials, writing new class and libs, you can read <a href="https://github.com/emanuelepaiano/quickjava/blob/master/doc/START.TXT">docs/start.txt file</a></p>
 
 

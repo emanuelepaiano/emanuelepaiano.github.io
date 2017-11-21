@@ -7,9 +7,9 @@ author:     "Emanuele Paiano"
 header-img: "img/4.jpg"
 ---
 
-<p>Espresso Admin has been shared on github, so you can download and administrate <a href="https://github.com/emanuelepaiano/espresso-portal">Espresso</a> hotspot clients by a web responsive interface.</p>
+<p>By Espresso Admin you can administrate <a href="https://github.com/emanuelepaiano/espresso-portal">Espresso</a> hotspot clients using a web responsive interface (based on CakePHP).</p>
 
-<p><a href="https://github.com/emanuelepaiano/espresso-admin">You can see github repository</a></p>
+<p><a href="https://github.com/emanuelepaiano/espresso-admin">Github repository</a></p>
 
 <a href="#">
     <img src="https://github.com/emanuelepaiano/espresso-admin/blob/master/screenshots/1.png?raw=true" alt="Screenshot">
@@ -26,6 +26,6 @@ header-img: "img/4.jpg"
 
 <h2 class="section-heading">Install</h2>
  
-<p>For install read <a href="https://github.com/emanuelepaiano/espresso-admin/blob/master/README.md">README.md file</a> and Cakephp docs</p>
+<p>Read <a href="https://github.com/emanuelepaiano/espresso-admin/blob/master/README.md">README.md file</a> and Cakephp3 docs, for setup</p>
 
 

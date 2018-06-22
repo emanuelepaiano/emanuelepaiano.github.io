@@ -9,10 +9,13 @@ header-img: "img/arduino2.jpg"
 
 <h1 class="section-heading">About this project</h1>
 Using this tool you can interface Arduino (or enterprise boards) with Spring framework and REST services.
+
+![alt tag](https://github.com/emanuelepaiano/SpringDuino/blob/master/springduino.png?raw=true)
+
 This project can be used for:
 <ul>
 <li>Building small domotics and IoT control panel</li>
-<li>Interfacing roboting application with Java Spring</li>
+<li>Interfacing robotics application with Java Spring</li>
 </ul>
 
 Download available on <a href="https://github.com/emanuelepaiano/SpringDuino">Github repository</a>

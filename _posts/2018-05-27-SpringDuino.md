@@ -33,6 +33,5 @@ Connection is based on a Java arduino serial monitor (<a href="https://github.co
 
 You can change login settings into src/main/webapp/WEB-INF/context-security.xml
  
-
 <h2 class="section-heading">License</h2>
 <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a>

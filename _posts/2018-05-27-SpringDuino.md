@@ -2,7 +2,7 @@
 layout:     post
 title:      "SpringDuino, an Arduino service for Spring"
 subtitle:   "Interfacing Spring framework with Arduino"
-date:       2018-05-27 18:49:00
+date:       2018-05-28 18:49:00
 author:     "Emanuele Paiano"
 header-img: "img/arduino2.jpg"
 ---

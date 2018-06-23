@@ -13,7 +13,7 @@ Using this tool you can interface Arduino (or compatible board) with Spring Java
 ![alt tag](https://github.com/emanuelepaiano/SpringDuino/blob/master/springduino.png?raw=true)
 
 This project can be used for:
-<ul>
+<ul> 
 <li>Building small domotics and IoT control panel</li>
 <li>Interfacing robotics application with Java Spring</li>
 </ul>

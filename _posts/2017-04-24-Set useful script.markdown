@@ -4,7 +4,7 @@ title:      "WifiQR and Multiple Product Tasks"
 subtitle:   "PHP script and prestashop plugin"
 date:       2017-04-23 12:00:00
 author:     "Emanuele Paiano"
-header-img: "img/4.jpg"
+header-img: "img/4.png"
 ---
 
 <p>Here there are my old PHP projects, like WifiQR and MPT.</p>

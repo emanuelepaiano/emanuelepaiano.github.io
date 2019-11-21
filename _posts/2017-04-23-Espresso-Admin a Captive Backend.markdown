@@ -4,7 +4,7 @@ title:      "Espresso Admin, a web interface for Espresso"
 subtitle:   "Administration Espresso PHP backend"
 date:       2017-04-23 12:00:00
 author:     "Emanuele Paiano"
-header-img: "img/4.jpg"
+header-img: "img/4.png"
 ---
 
 <p>By Espresso Admin you can administrate <a href="https://github.com/emanuelepaiano/espresso-portal">Espresso</a> hotspot clients using a web responsive interface (based on CakePHP).</p>

@@ -9,6 +9,8 @@ header-img: "img/4.png"
 
 <p>You can use this tool to build coffee or restaurants free wifi hotspots, without pay external cloud services. Works with Ubiquiti Unifi controller version 4.X and 5.X</p>
 
+<p><b>NOTE: this version is obsolete. I'm working for Springboot/Angular based version, with microservices and monolithic architectures (this version will be contain Espresso Admin and Espresso Portal) </b></p>
+
 ![alt tag](https://github.com/emanuelepaiano/espresso-freewifi-portal/blob/master/screenshots/en.png?raw=true)
 
 <p><a href="https://github.com/emanuelepaiano/espresso-portal">Github repository</a></p>
